@@ -12,7 +12,7 @@ function max(a, b) {
         return a;
     }
 }
-
+////////////avbancvbxncbnbzxcnz
 function factorial(a)
 {    
     let result = a;
