@@ -1,18 +1,17 @@
-function sum(a, b) {
-    let value1 = a;
-    let value2 = a;
-    let result = valueA + valueB;
-    return result;
+function deduct(a,b) {
+    let valueC = c;
+    let valueD = d;
+    let resultDeduct = valueC - valueD;
+    return resultDeduct;
 }
 
 function max(a, b) {
     if (a > b) {
         return a;
     } else {
-        return a;
+        return b;
     }
 }
-////////////avbancvbxncbnbzxcnz
 function factorial(a)
 {    
     let result = a;
